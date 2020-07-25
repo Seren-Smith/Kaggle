@@ -1,3 +1,3 @@
 # Kaggle
 
-The code listed on here contains various projects I've undertaken for Kaggle, including the code used. 
+This repository will contain some of my various Kaggle projects.
